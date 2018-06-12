@@ -3,6 +3,16 @@
   <component name="ContentModelStore">
     <e p="C:\Users\mniklas\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Solution2.-355635411.00" t="ExcludeRecursive" />
     <e p="C:\Users\mniklas\Documents\bla\Solution2" t="IncludeFlat">
+      <e p="ClassLibrary1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="ClassLibrary1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
       <e p="Solution2.sln" t="IncludeFlat" />
     </e>
   </component>
